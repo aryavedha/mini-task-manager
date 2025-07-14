@@ -29,18 +29,18 @@ A simple Java web application to **add** and **view tasks** using Servlets, buil
 ##  Project Structure
 
 mini-task-manager/
--├── pom.xml
--└── src/
--└── main/
--├── java/com/example/
--│ ├── HomeServlet.java
--│ ├── AddTaskServlet.java
--│ ├── ListTasksServlet.java
--│ └── TaskStore.java
--└── webapp/
--├── index.html
--├── add.html
--└── WEB-INF/web.xml
+- ├── pom.xml
+- └── src/
+- └── main/
+- ├── java/com/example/
+- │ ├── HomeServlet.java
+- │ ├── AddTaskServlet.java
+- │ ├── ListTasksServlet.java
+- │ └── TaskStore.java
+- └── webapp/
+- ├── index.html
+- ├── add.html
+- └── WEB-INF/web.xml
 
 ---
 
